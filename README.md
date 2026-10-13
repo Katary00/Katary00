@@ -45,6 +45,5 @@ Finishing my thesis and going back to fundamentals on purpose: SQL performance, 
 
 <sub>`C#` &nbsp; `.NET Core` &nbsp; `.NET Framework` &nbsp; `ASP.NET` &nbsp; `SQL Server` &nbsp; `Git`</sub>
 
-Contact — uncomment and fill in:
-[LinkedIn](https://www.linkedin.com/in/stalin-yungan-7117aa297) · [Email](stalin.yungan00@gmail.com)
-
+Contact:
+[LinkedIn](https://www.linkedin.com/in/stalin-yungan-7117aa297) · [Email](mailto:stalin.yungan00@gmail.com)
