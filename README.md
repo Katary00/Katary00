@@ -36,9 +36,9 @@ Finishing my thesis and going back to fundamentals on purpose: SQL performance, 
 ### Recent activity
 
 <!--activity:start-->
+`2026-10-19` pushed to [JSMM-SW/Handover-Analysis-Plataform](https://github.com/JSMM-SW/Handover-Analysis-Plataform)  
 `2026-10-19` merged PR [#16]() in [JSMM-SW/Handover-Analysis-Plataform](https://github.com/JSMM-SW/Handover-Analysis-Plataform)  
 `2026-10-13` pushed to [Katary00/Katary00](https://github.com/Katary00/Katary00)  
-`2026-10-13` pushed to [JSMM-SW/Handover-Analysis-Plataform](https://github.com/JSMM-SW/Handover-Analysis-Plataform)  
 `2026-10-14` merged PR [#14]() in [JSMM-SW/Handover-Analysis-Plataform](https://github.com/JSMM-SW/Handover-Analysis-Plataform)  
 `2026-10-14` opened PR [#13]() in [JSMM-SW/Handover-Analysis-Plataform](https://github.com/JSMM-SW/Handover-Analysis-Plataform)  
 <!--activity:end-->
