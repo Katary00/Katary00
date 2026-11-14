@@ -40,7 +40,6 @@ Finishing my thesis and going back to fundamentals on purpose: SQL performance, 
 `2026-10-29` opened PR [#17]() in [JSMM-SW/Handover-Analysis-Plataform](https://github.com/JSMM-SW/Handover-Analysis-Plataform)  
 `2026-10-19` pushed to [JSMM-SW/Handover-Analysis-Plataform](https://github.com/JSMM-SW/Handover-Analysis-Plataform)  
 `2026-10-19` merged PR [#16]() in [JSMM-SW/Handover-Analysis-Plataform](https://github.com/JSMM-SW/Handover-Analysis-Plataform)  
-`2026-10-13` pushed to [Katary00/Katary00](https://github.com/Katary00/Katary00)  
 <!--activity:end-->
 
 &nbsp;
